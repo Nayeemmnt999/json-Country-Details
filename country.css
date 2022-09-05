@@ -1,0 +1,12 @@
+#country{
+    display: grid;
+    grid-template-columns: repeat(4 , 1fr);
+    gap: 20px;
+}
+.country-js{
+    background-color: #daeff8;
+    border: 2px solid tomato;
+    padding: 10px;
+    border-radius: 10px;
+
+}
